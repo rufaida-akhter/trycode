@@ -12,3 +12,4 @@ git commit -m "commitqw"
 git branch -M main
 git remote add origin http
 git push -u origin main
+git remote set-url origin http//:
